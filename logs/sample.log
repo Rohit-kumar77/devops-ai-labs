@@ -1,0 +1,6 @@
+INFO 2026-02-01 Application started
+INFO 2026-02-01 Connecting to database
+WARN 2026-02-01 Database response slow
+ERROR 2026-02-01 Connection timeout
+INFO 2026-02-01 Retrying connection
+ERROR 2026-02-01 Database unreachable
